@@ -9,7 +9,7 @@ html {
   }
   
   .button {
-    $normal: black;
+    $normal: dark blue;
     $hover: red;
     $hover-text: white;
     $clicked: blue;
